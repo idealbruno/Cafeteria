@@ -58,3 +58,7 @@ O campo de busca permite localizar pedidos/produtos rapidamente utilizando JavaS
   - Pagamento online
   - Painel administrativo
   - API para pedidos
+
+###  👨‍💻 Autor
+
+Desenvolvido por [Bruno Rodrigues]
